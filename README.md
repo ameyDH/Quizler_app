@@ -1,1 +1,1 @@
-# Quizler_app
+# Quizzler_app
